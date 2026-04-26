@@ -1,0 +1,53 @@
+// Brand Colors
+$color-primary: #3b82f6;
+$color-secondary: #10b981;
+$color-tertiary: #0f172a;
+
+// UI Colors
+$color-canvas: #f8fafc;
+$color-surface: #ffffff;
+$color-text: #191b23;
+$color-text-muted: #424754;
+$color-border: #e1e2ec;
+$color-error: #ba1a1a;
+$color-success: #10b981;
+
+// Typography
+$font-family-base: 'Inter', sans-serif;
+
+$font-size-display-xl: 48px;
+$font-size-display-lg: 36px;
+$font-size-headline-md: 24px;
+$font-size-headline-sm: 20px;
+$font-size-body-lg: 18px;
+$font-size-body-md: 16px;
+$font-size-label-md: 14px;
+$font-size-label-sm: 12px;
+
+$font-weight-regular: 400;
+$font-weight-medium: 500;
+$font-weight-semibold: 600;
+$font-weight-bold: 700;
+
+// Spacing
+$spacing-unit: 8px;
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+$spacing-xxl: 48px;
+$spacing-gutter: 24px;
+
+// Border Radius
+$border-radius-sm: 0.5rem;
+$border-radius-base: 1rem;
+$border-radius-md: 1.5rem;
+$border-radius-lg: 2rem;
+$border-radius-xl: 3rem;
+$border-radius-pill: 9999px;
+
+// Shadows
+$shadow-level-1: 0px 4px 20px rgba(15, 23, 42, 0.04);
+$shadow-level-2: 0px 8px 30px rgba(15, 23, 42, 0.08);
+$shadow-floating: 0px 10px 40px rgba(59, 130, 246, 0.1);
