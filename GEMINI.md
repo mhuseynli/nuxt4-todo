@@ -1,4 +1,4 @@
-# Project: Risskov Production Todo App
+# Project: Nuxt 4 Production Todo App
 
 # AI Assistant Manifest & Instructions
 
