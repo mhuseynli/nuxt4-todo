@@ -32,7 +32,7 @@
       </div>
 
       <div v-if="serverTodos.length > 0" class="todo-list__section">
-        <h4 v-if="localTodos.length > 0" class="todo-list__section-title">All Tasks</h4>
+        <h4 class="todo-list__section-title">All Tasks</h4>
         <div class="todo-list__items">
           <TodoItem
             v-for="todo in serverTodos"

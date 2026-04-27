@@ -2,7 +2,7 @@
 name: test-engineer
 description: Specialized in writing Vitest unit tests and Playwright E2E tests.
 kind: local
-temperature: 0.1
+temperature: 0.2
 max_turns: 10
 ---
 
